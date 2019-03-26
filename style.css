@@ -1,0 +1,55 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.navigate {
+	border: solid 1px black;
+	background-color: #5275C3;
+	padding: 10px;
+	margin-left:25%;
+	margin-right: 25%;
+}
+
+.navigate a {
+	padding: 20px;
+	font-weight: bold;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color:antiquewhite;
+	text-decoration: none;	
+}
+
+
+.choice {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	margin-left: 25%;
+	margin-right: 25%;
+}
+
+.choice a {
+	text-decoration: none;
+	padding: 10px;
+	border: hidden;
+	background-color: pink;
+	border-radius: 50%;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+
+.cover {
+	clear: both;
+	display: block;
+	margin-top: 10px;
+	margin-left:auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+h1{
+	margin-left: 25%;
+	margin-right: 25%;
+}
+
+.instruct{
+	margin-left: 25%;
+	margin-right: 25%;
+}
